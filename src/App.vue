@@ -6,5 +6,5 @@ import GraphLayout from './components/pages/GraphLayout.vue'
   <GraphLayout />
 </template>
 
-<style scoped>
+<style scoped lang="css">
 </style>
